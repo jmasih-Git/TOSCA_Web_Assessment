@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\PCCW_Tech_Assess.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\PCCW_Tech_Assess\Repository\PCCW_Tech_Assess.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a158c6b-46d2-4ebe-b114-8b804bc4dafb</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>8949b693-f6b6-4ecd-9a6f-187ef90d0b23</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
